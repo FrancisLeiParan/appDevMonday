@@ -158,6 +158,4 @@ Mendoza.display();
 
         Mirandilla.display();
 
-    }
-}
-
+    Paran.display(); }}
